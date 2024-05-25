@@ -1,0 +1,126 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 10px;
+  background-color: rgb(249, 249, 249);
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+.myimg {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+img {
+  border-radius: 5%;
+  width: 100%;
+  height: 60%;
+  padding-left: 3%;
+  display: flex;
+}
+.form-container {
+  background-color: rgb(255, 255, 255);
+  padding: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+form input,
+form textarea {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+form button {
+  display: block;
+  margin: 0 auto;
+  padding: 10px 20px;
+  background-color: #8c5841;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.form button:hover {
+  background-color: skyblue;
+}
+
+#habits-list {
+  display: flex;
+  gap: 1rem;
+}
+.habits-item {
+  padding: 10px;
+  /* margin-bottom: 10px; */
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.2rem;
+  width: 10rem;
+  height: 10rem;
+  border: 3px solid #ff7570;
+}
+.habits-item img {
+  width: 50%;
+  height: 50%;
+}
+
+/* .habits-item button {
+  background-color: #9d9bb0;
+  color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+} */
+
+/* .habits-details {
+  background-color: rgb(225, 28, 28);
+  padding: 20px;
+  border-radius: 5px;
+} */
+
+/* improves*/
+/* li {
+  height: 15vh;
+  background-color: papayawhip;
+  gap: px;
+  display: flex;
+  flex-direction: row;
+  font-size: 20px;
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+}
+li button {
+  height: 30px;
+  border-radius: 5px;
+  border: none;
+  background-color: #cfa796;
+  margin-left: 50px;
+} */
+input[type="text"],
+textarea {
+  background-color: #cfa796;
+  color: aliceblue;
+  font-size: 15px;
+  border-radius: 5px;
+}

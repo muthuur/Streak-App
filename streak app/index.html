@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Project Management Dashboard</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="myimg">
+        <img src="Picture1.png" alt="" />
+      </div>
+
+      <div class="form-container">
+        <form id="habits-form">
+          <label for="habit-name">habit:</label>
+          <input type="text" id="habit-name" required />
+          <label for="habit-description">habit description:</label>
+          <textarea id="habit-description" required></textarea>
+          <label for="startDate">Start Date:</label>
+          <input type="date" name="startDate" id="startDate" />
+          <label for="imageUrl">Image Url</label>
+          <input type="text" name="imageUrl" id="imageUrl" />
+          <button type="submit">Add Habit</button>
+        </form>
+      </div>
+      <div class="habits-container">
+        <h2>Habits</h2>
+        <ul id="habits-list"></ul>
+      </div>
+      <div class="habits-details-container">
+        <div id="habits-details"></div>
+      </div>
+    </div>
+    <script src="main.js"></script>
+  </body>
+</html>

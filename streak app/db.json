@@ -1,0 +1,25 @@
+{
+  "habits": [
+    {
+      "id": "c74e",
+      "name": "smoking",
+      "description": "fadsfdsafg",
+      "startDate": "2024-05-22",
+      "imageUrl": "https://imgs.search.brave.com/Bew1GtKkSmgzSp0tx_g8gZz9mMPg5aLmjczmlSTDCSU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA1LzUyLzg1LzAy/LzM2MF9GXzU1Mjg1/MDI5N19pR0ljUFNq/a1F0Z21oRkhjZ0lq/VFRPS1hmb3ZMa0c2/TS5qcGc"
+    },
+    {
+      "id": "c6d7",
+      "name": "play video games",
+      "description": "plays video games during the weekend",
+      "startDate": "2024-05-18",
+      "imageUrl": "https://imgs.search.brave.com/6EF6ze45J_GDx-chzDguKV49TV4wXvTDtOUN_7faPO8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTA3/MTQ3MTYxMi9waG90/by9sYXp5LW1hbi1m/ZWxsLWFzbGVlcC1p/bi1saXZpbmctcm9v/bS5qcGc_cz02MTJ4/NjEyJnc9MCZrPTIw/JmM9eXdHRDcxaTRp/Y1FFdnI5YnBEdmRR/UDN2elN3OVdwdmxh/UVlRQ0xoaE5FTT0"
+    },
+    {
+      "id": "282b",
+      "name": "playing video games",
+      "description": "plays a lot of videogames",
+      "startDate": "2024-05-11",
+      "imageUrl": "https://imgs.search.brave.com/uJkHxZBDz3bgiqASDDHQ0AQCNuptrWKhTmSidd91MiY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9t/YW4tcGxheWluZy12/aWRlby1nYW1lLXdp/dGgtaGlzLWNvbnNv/bGVfMjMtMjE0OTE0/Mjc4MC5qcGc_c2l6/ZT02MjYmZXh0PWpw/Zw"
+    }
+  ]
+}
